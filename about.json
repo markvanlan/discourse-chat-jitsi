@@ -1,0 +1,7 @@
+{
+  "about_url": null,
+  "license_url": null,
+  "name": "Discourse Chat Jitsi",
+  "transpile_js": true,
+  "component": true
+}
